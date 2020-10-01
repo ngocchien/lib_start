@@ -1,0 +1,10 @@
+/nbproject/
+/vendor/
+.idea/
+/static/uploads/
+/static/captcha/
+composer.lock
+/data/
+/node_modules
+package-lock.json
+composer.phar
